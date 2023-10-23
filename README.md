@@ -4,9 +4,9 @@ no description, just my projects.
 just playing, of course there's a description!
 
 - 📘Cursando superior de tecnologia em Análise e Desenvolvimento de Sistemas (IFSP - Jacareí / 1sem);
-  - Lógica de programação, conceitos básicos e desenvolvendo pequenos programas em C/C++;
+  - Lógica de programação, conceitos básicos e desenvolvendo pequenos programas em C/C++ e Python;
   
-- 💻Aberto a oportunidades de estágio, trainee em meio período.
+- 💻Aberto a oportunidades de estágio.
 - ✍🏻Inglês Avançado:
   - Master In English (CNA - Arujá-SP)
   - Cambridge FCE (OverAll Score: 176 / Grade: B)  
