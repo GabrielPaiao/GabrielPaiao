@@ -4,7 +4,7 @@ no description, just my projects.
 just playing, of course there's a description!
 
 - 📘Cursando superior de tecnologia em Análise e Desenvolvimento de Sistemas (IFSP - Jacareí / 1sem);
-  - Lógica de programação, conceitos básicos e desenvolvendo pequenos programas em C/C++ e Python;
+  - Atualmente focando em C/C++ e Python;
   
 - 💻Aberto a oportunidades de estágio.
 - ✍🏻Inglês Avançado:
